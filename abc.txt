@@ -1,3 +1,7 @@
 ﻿rian
 준성이 바보
+<<<<<<< HEAD
 가나
+=======
+abc
+>>>>>>> parent of 582ee5d... de
